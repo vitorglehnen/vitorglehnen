@@ -2,6 +2,7 @@
 
 - 🔭 Atualmente trabalho como SUPORTE TÉCNICO na empresa - OFFICE SYSTEM
 - 🌱 Estudando DELPHI
+- 👨‍🎓 1° Semestre de Engenharia de Software (Univates)
 
  ##
  
