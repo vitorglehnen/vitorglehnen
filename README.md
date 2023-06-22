@@ -1,8 +1,7 @@
 ### 🧫 VITOR GABRIEL 🧫
 
-- 🔭 Atualmente trabalho como SUPORTE TÉCNICO na empresa - OFFICE SYSTEM
-- 🌱 Estudando DELPHI & PYTHON
-- 👨‍🎓 1° Semestre de Engenharia de Software (Univates)
+- 🔭 SUPORTE TÉCNICO - OFFICE SYSTEM
+- 👨‍🎓 2/8 Engenharia de Software (Univates)
 
  ##
  
