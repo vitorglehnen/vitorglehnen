@@ -1,6 +1,6 @@
 ### 🧫 VITOR GABRIEL 🧫
 
-- 🔭 SUPORTE TÉCNICO - OFFICE SYSTEM
+- 🔭 Desenvolvedor de Software - OFFICE SYSTEM
 - 👨‍🎓 3/8 Engenharia de Software (Univates)
 
  ##
