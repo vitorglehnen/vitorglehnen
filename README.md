@@ -1,7 +1,7 @@
 ### 🧫 VITOR GABRIEL 🧫
 
-- 🔭 Desenvolvedor de Software - OFFICE SYSTEM
-- 👨‍🎓 3/8 Engenharia de Software (Univates)
+- 🔭 Desenvolvedor de Software - Office System (Lajeado - RS)
+- 👨‍🎓 3/8 Engenharia de Software - Univates (Lajeado - RS)
 
  ##
  
